@@ -55,7 +55,7 @@ Contribuições são bem-vindas! Se você tem melhorias ou correções, por favo
 
 ## Observações
 
-- O script foi testado em ambientes Windows e Linux.
+- O script foi testado apenas em ambientes Windows.
 - A qualidade da conversão pode variar dependendo da complexidade do layout do PDF.
 
 ## Isenção de responsabilidade
