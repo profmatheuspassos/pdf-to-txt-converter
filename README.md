@@ -15,14 +15,25 @@ O `pdf-to-txt-converter` é um script Python projetado para converter arquivos P
 
 ## Instalação
 
-Primeiro, clone o repositório usando Git:
+Para instalar este projeto, você tem algumas opções:
 
-```bash
-git clone https://github.com/seu-usuario/pdf-to-txt-converter.git
-cd pdf-to-txt-converter
-```
+1. **Download Direto:**
+   - Acesse o repositório no GitHub.
+   - Clique no botão verde "Code" e então clique em "Download ZIP".
+   - Descompacte o arquivo em sua máquina local.
 
-Em seguida, instale as dependências necessárias:
+2. **Usando Git:**
+   - Abra o terminal e execute o seguinte comando para clonar o repositório:
+     ```bash
+     git clone https://github.com/seu-usuario/pdf-to-txt-converter.git
+     cd pdf-to-txt-converter
+     ```
+
+3. **GitHub Desktop:**
+   - Clique no botão verde "Code" e selecione "Open with GitHub Desktop".
+   - Siga as instruções para clonar o repositório com o GitHub Desktop.
+
+Após obter o código, instale as dependências necessárias:
 
 ```bash
 pip install PyPDF2
