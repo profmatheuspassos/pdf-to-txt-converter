@@ -60,4 +60,4 @@ Contribuições são bem-vindas! Se você tem melhorias ou correções, por favo
 
 ## Isenção de responsabilidade
 
-Este software é fornecido "como está", sem garantia de qualquer tipo, expressa ou implícita. Os desenvolvedores não serão responsáveis por quaisquer danos resultantes do uso deste software. Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+Este software é fornecido "como está", sem garantia de qualquer tipo, expressa ou implícita. Os desenvolvedores não serão responsáveis por quaisquer danos resultantes do uso deste software. Distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais informações.
