@@ -25,7 +25,7 @@ Para instalar este projeto, você tem algumas opções:
 2. **Usando Git:**
    - Abra o terminal e execute o seguinte comando para clonar o repositório:
      ```bash
-     git clone https://github.com/seu-usuario/pdf-to-txt-converter.git
+     git clone https://github.com/profmatheuspassos/pdf-to-txt-converter.git
      cd pdf-to-txt-converter
      ```
 
